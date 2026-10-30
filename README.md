@@ -4,6 +4,7 @@ An Excel analysis of how closely club wage bills predict league points in La Lig
 
 The analysis covers **five seasons (2019–20 through 2023–24)** and **100 club-season observations**.
 
+![Wage Index vs. League Points scatter plot](scatter_all_seasons.png)
 
 ## Key Results
 
